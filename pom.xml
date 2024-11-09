@@ -23,7 +23,7 @@
                     <archive>
                         <manifest>
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
-                            <mainClass>com.byborg.PingApp</mainClass> <!-- Replace with your main class -->
+                            <mainClass>com.habib.PingApp</mainClass> <!-- Replace with your main class -->
                         </manifest>
                     </archive>
                 </configuration>

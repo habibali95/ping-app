@@ -13,7 +13,7 @@
           <archive>
             <manifest>
               <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
-              <mainClass>com.byborg.PingApp</mainClass>
+              <mainClass>com.habib.PingApp</mainClass>
             </manifest>
           </archive>
         </configuration>
