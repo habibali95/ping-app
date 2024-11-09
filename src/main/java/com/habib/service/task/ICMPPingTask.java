@@ -56,7 +56,7 @@ public class ICMPPingTask implements MonitorTask {
                     boolean pingSuccessful = taskHelper.isPingSuccessful(outputLines);
                     logger.warn("ICMP Ping {} executed", host);
                     logger.warn("ICMP Ping executed successfully= {}", pingSuccessful);
-                    logger.warn("ICMP Ping {} outputLines", outputLines);
+                    logger.warn("ICMP Ping outputLines {}", outputLines);
                     if (!pingSuccessful) {
                         sendReport();
                     }
